@@ -1,0 +1,34 @@
+header {
+    position: absolute;
+    padding: 10px;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: black;
+    text-align: left;
+    display: flex;
+}
+logo{
+    flex: 80%;
+}
+#logo {
+    font-family: 'Montez', cursive;
+    font-size: 35px;
+    color: blue;
+}
+#subheading {
+    font-size: 16px;
+    font-family: 'Ubuntu Mono';
+}
+#signup-btn{
+    margin: 1%;
+    background-color: blue;
+    color: white;
+   
+}
+#signin-btn{
+    margin: 1%;
+    background-color: blue;
+    color: white;
+}
